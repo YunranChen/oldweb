@@ -14,7 +14,7 @@ picture: assets/images/profile.jpg
 # and specify source (external or local).
 resume: false
 resume-external: true
-resume-url: https://google.com/?q=my+resume
+resume-url: https://github.com/YunranChen/Daydreamer
 
 url: http://yunranchen.github.io
 #https://koppl.in/indigo
@@ -59,12 +59,6 @@ authors:
         bio: Feel everything, so as not to feel nothing.
         external-image: false
         picture: assets/images/profile.jpg
-        #twitter: yunranchen
-    yunranchen:
-        name: Yunran Chen
-        bio: Feel everything, so as not to feel nothing.
-        external-image: false
-        picture: assets/images/james.jpg
         #twitter: yunranchen
 
 # do you want a larger site? change the option below
