@@ -8,7 +8,7 @@ layout: page
 
 <p> I graduated from Renmin University of China in 2017, majoring in Statistics and double majoring in Economics. I am now completing a Master degree in Statistical Science in Duke University. I am interested in network analysis and nonparametric Bayes. I am trying to view the world from Bayesian perspective.</p>
 
-<p>I love trivia, dreams, poems, philosophy and statistics. I have recorded my dreams in details since 09/26/2016. I am building a website to gather dreams recently. My dream is to predict what I would dream.</p>
+<p>I love trivia, dreams, poems, philosophy and statistics. I have recorded my dreams in details since 09/26/2016. I am building a <a href="https://github.com/YunranChen/Daydreamer">Rabbit Hole</a> to gather dreams recently. My dream is to predict what I would dream.</p>
 
 <h2><a href="https://github.com/YunranChen/HiggsBoson">Résumé</a></h2>
 
