@@ -5,6 +5,7 @@ date: 2018-07-09 17:45
 tag:
 - network
 - statistics
+- R
 image: /assets/images/markdown.jpg
 headerImage: false
 projects: true
