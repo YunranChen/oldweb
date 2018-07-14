@@ -2,7 +2,9 @@
 title: "Python Package: Variational Inference on Latent Dirichlet Allocation"
 layout: post
 date: 2018-07-09 17:45
-tag: statistics
+tag: 
+- statistics
+- Python
 image: /assets/images/markdown.jpg
 headerImage: false
 projects: true
