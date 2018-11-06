@@ -22,3 +22,4 @@ externalLink: false
 
 We aim to characterize how information spreads on social platforms like Twitter. Our analysis is based on dynamic retweet network related to Higgs boson discovery. In the first part we presented a thorough exploratory data analysis on the information spreading processes before, during and after the announcement of the discovery of Higgs boson. Specifically, how network statistics and structure vary with time. In the second part, we use epidemiological models (SI model, SIS model and SEIZ model) to capture information diffusion in this event. And we make predictions on the characteristics of the information spreading process such as transition rate and so on. The compartmental models in epidemiology performs well at fitting the data under different situations.
 
+Reports and codes please refer to my github <a href="https://github.com/YunranChen/HiggsBoson">Dynamic Network: HiggsBoson</a>.
