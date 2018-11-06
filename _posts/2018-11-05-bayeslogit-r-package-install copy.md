@@ -11,16 +11,16 @@ Notice the `rpg` function may not work when the shape parameter is greater than 
   - For MacOS, go to App Store, download Xcode.
 
   - Or use the commandline in terminal:
-{% highlight raw %}
-$ brew install gcc
-{% endhighlight %}
+    ···
+        $ brew install gcc
+    ···
 
 2. Make sure you have right path for `gfortran`.
 
-
-$ curl -O http://r.research.att.com/libs/gfortran-4.8.2-darwin13.tar.bz2
-$ sudo tar fvxz gfortran-4.8.2-darwin13.tar.bz2 -C /
-
+    ···
+        $ curl -O http://r.research.att.com/libs/gfortran-4.8.2-darwin13.tar.bz2
+        $ sudo tar fvxz gfortran-4.8.2-darwin13.tar.bz2 -C /
+    ···
 
 3. Follow the instructions in <a href="https://github.com/jwindle/BayesLogit/blob/master/INSTALL">github</a> to generate R package.
 
@@ -34,44 +34,47 @@ $ sudo tar fvxz gfortran-4.8.2-darwin13.tar.bz2 -C /
 
     2) Install the Matrix and RNG files in BayesLogit/Code/C/include/
 
-  - From the command line
+    - From the command line
 
-      cd to BayesLogit/Code/C/include	
-      $ wget https://github.com/jwindle/Matrix/archive/master.zip
-      $ wget https://github.com/jwindle/RNG/archive/master.zip
-   
-  - Or from your browser
-    - type in the above links and save them in
-      BayesLogit/Code/C/include/
+    ···
+        cd to BayesLogit/Code/C/include	
+        $ wget https://github.com/jwindle/Matrix/archive/master.zip
+        $ wget https://github.com/jwindle/RNG/archive/master.zip
+    ···
 
-  - Unzip the files.
+    - Or from your browser
+        - type in the above links and save them in
+            BayesLogit/Code/C/include/
 
-  - Remove the -master suffix
+        - Unzip the files.
 
-    $ mv Matrix-master Matrix
-    $ mv RNG-master RNG
+    - Remove the -master suffix
+        ···
+            $ mv Matrix-master Matrix
+            $ mv RNG-master RNG
+        ···
 
+    3) cd to BayesLogit/Code/BLPackage
 
-3) cd to BayesLogit/Code/BLPackage
+    4) Update the files for the package.
 
-4) Update the files for the package.
+        ···
+            $ bash sync.bash
+        ···
 
+    5)Build the package
 
-    $ bash sync.bash
+    ···
+        $ R CMD build BayesLogit
+    ···
 
+    6) Check the package (optional)
 
-5) Build the package
+    ···
+        $ R CMD check BayesLogit_WHATEVER.tar.gz 
+    ···
 
-
-    $ R CMD build BayesLogit
-
-6) Check the package (optional)
-
-
-    $ R CMD check BayesLogit_WHATEVER.tar.gz 
-
-
-7) Install the package
-
-    $ R CMD INSTALL BayesLogit_WHATEVER.tar.gz
-
+    7) Install the package
+    ···
+        $ R CMD INSTALL BayesLogit_WHATEVER.tar.gz
+    ···
