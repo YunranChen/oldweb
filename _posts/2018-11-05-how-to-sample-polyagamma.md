@@ -15,6 +15,6 @@ author: yunranchen
 externalLink: false
 ---
 
-To sample from PolyaGamma distribution, we could use the `rpg` function in R pacakge `BayesLogit`, which is hybrid sampling approach based on Devroye, alternative and saddlepoint sampling method proposed by Polson et. al. (<a href="https://arxiv.org/pdf/1205.0310.pdf">2013a</a>, <a href="https://www2.stat.duke.edu/~jbw44/Papers/NewPGSamplerWriteUp.pdf">2013b</a>). Here I would provide a brief introduction on how it works.
+To sample from PolyaGamma distribution, we could use the `rpg` function in R pacakge `BayesLogit`, which is hybrid sampling approach based on Devroye, alternative and saddlepoint sampling method proposed by Polson et. al. (<a href="https://arxiv.org/pdf/1205.0310.pdf">2013a</a>, <a href="https://www2.stat.duke.edu/~jbw44/Papers/NewPGSamplerWriteUp.pdf">2013b</a>). 
 
-$asd=\frac{1}{2}$
+Here I provide brief <a href="https://www2.stat.duke.edu/~jbw44/Papers/NewPGSamplerWriteUp.pdf">notes</a> on how it works. 
