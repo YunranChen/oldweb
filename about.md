@@ -6,7 +6,7 @@ layout: page
 
 
 
-<p> I graduated from Renmin University of China in 2017, majoring in Statistics and double majoring in Economics. I am now completing a Master degree in Statistical Science in Duke University. I am interested in network analysis and nonparametric Bayes. I am trying to view the world from Bayesian perspective. My goal is to serve as a bridge to connect various disciplines through developing statistical methods and models, and spread the concepts of statistics to the general public. </p>
+<p> I graduated from Renmin University of China in 2017, majoring in Statistics and double majoring in Economics. I am now completing a Master's degree in Statistical Science at Duke University. I am interested in network analysis and nonparametric Bayes. My goal is to serve as a bridge to connect various disciplines through developing statistical methods and models, and spread the concepts of statistics to the general public. </p>
 
 <p>I love statistics, trivia, dreams, poems and  philosophy. I have recorded my dreams in details since 09/26/2016. I am building a <a href="https://github.com/YunranChen/Daydreamer">Rabbit Hole</a> to gather dreams recently.</p>
 
@@ -17,7 +17,7 @@ layout: page
 <ul>
 	<li>Ongoing: Testing Poisson versus Poisson mixtures with applications to neuroscience <a href="https://github.com/YunranChen/yunranchen.github.io/blob/master/assets/pdf/AISC.pdf">slides</a></li>
 	<li>Ongoing: Dynamic Latent Space Model on Directed Network</li>
-	<li>Undergradate thesis: Pairwise estimation of mixed spatial autoregressive model with sampled network data <a href="https://github.com/YunranChen/yunranchen.github.io/blob/master/assets/pdf/undergradthesis.pdf">pdf(in Chinese)</a></li>
+	<li>Undergraduate thesis: Pairwise estimation of mixed spatial autoregressive model with sampled network data <a href="https://github.com/YunranChen/yunranchen.github.io/blob/master/assets/pdf/undergradthesis.pdf">pdf(in Chinese)</a></li>
 </ul>
 
 <h2>Projects</h2>
@@ -48,6 +48,6 @@ layout: page
 	<li>Neuroscience: </li>
 	<ul>
 		<li><a href="https://www.coursera.org/learn/human-brain">The Brain and Space</a> by Duke University on Coursera</li>
-		<li>Research Assistant at <a href="https://people.duke.edu/~jmgroh/">Neural Basis of Perception Laboratory</a></li>
+		<li>Research Assistant in <a href="https://people.duke.edu/~jmgroh/">Neural Basis of Perception Laboratory</a></li>
 	</ul>
 </ul>
