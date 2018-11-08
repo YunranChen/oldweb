@@ -17,7 +17,7 @@ layout: page
 <ul>
 	<li>Ongoing: Testing Poisson versus Poisson mixtures with applications to neuroscience <a href="https://github.com/YunranChen/yunranchen.github.io/blob/master/assets/pdf/AISC.pdf">slides</a></li>
 	<li>Ongoing: Dynamic Latent Space Model on Directed Network</li>
-
+	<li>Undergradate thesis: Pairwise estimation of mixed spatial autoregressive model with sampled network data <a href="https://github.com/YunranChen/yunranchen.github.io/blob/master/assets/pdf/undergradthesis.pdf">pdf(in Chinese)</a></li>
 </ul>
 
 <h2>Projects</h2>
