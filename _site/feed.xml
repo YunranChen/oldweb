@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.7.3">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2018-11-08T10:09:06-05:00</updated><id>http://localhost:4000/</id><title type="html">Yunran Chen</title><subtitle>A blog about statistics and dreams</subtitle><entry><title type="html">BayesLogit: How to sample from Polyagamma distributiona and some issue on R package</title><link href="http://localhost:4000/how-to-sample-polyagamma/" rel="alternate" type="text/html" title="BayesLogit: How to sample from Polyagamma distributiona and some issue on R package" /><published>2018-11-05T16:18:00-05:00</published><updated>2018-11-05T16:18:00-05:00</updated><id>http://localhost:4000/how-to-sample-polyagamma</id><content type="html" xml:base="http://localhost:4000/how-to-sample-polyagamma/">&lt;p&gt;To sample from PolyaGamma distribution, we could use the &lt;code class=&quot;highlighter-rouge&quot;&gt;rpg&lt;/code&gt; function in R pacakge &lt;code class=&quot;highlighter-rouge&quot;&gt;BayesLogit&lt;/code&gt;, which is hybrid sampling approach based on Devroye, alternative and saddlepoint sampling method proposed by Polson et. al. (&lt;a href=&quot;https://arxiv.org/pdf/1205.0310.pdf&quot;&gt;2013a&lt;/a&gt;, &lt;a href=&quot;https://www2.stat.duke.edu/~jbw44/Papers/NewPGSamplerWriteUp.pdf&quot;&gt;2013b&lt;/a&gt;).&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.7.3">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2018-11-08T10:44:42-05:00</updated><id>http://localhost:4000/</id><title type="html">Yunran Chen</title><subtitle>A blog about statistics and dreams</subtitle><entry><title type="html">BayesLogit: How to sample from Polyagamma distributiona and some issue on R package</title><link href="http://localhost:4000/how-to-sample-polyagamma/" rel="alternate" type="text/html" title="BayesLogit: How to sample from Polyagamma distributiona and some issue on R package" /><published>2018-11-05T16:18:00-05:00</published><updated>2018-11-05T16:18:00-05:00</updated><id>http://localhost:4000/how-to-sample-polyagamma</id><content type="html" xml:base="http://localhost:4000/how-to-sample-polyagamma/">&lt;p&gt;To sample from PolyaGamma distribution, we could use the &lt;code class=&quot;highlighter-rouge&quot;&gt;rpg&lt;/code&gt; function in R pacakge &lt;code class=&quot;highlighter-rouge&quot;&gt;BayesLogit&lt;/code&gt;, which is hybrid sampling approach based on Devroye, alternative and saddlepoint sampling method proposed by Polson et. al. (&lt;a href=&quot;https://arxiv.org/pdf/1205.0310.pdf&quot;&gt;2013a&lt;/a&gt;, &lt;a href=&quot;https://www2.stat.duke.edu/~jbw44/Papers/NewPGSamplerWriteUp.pdf&quot;&gt;2013b&lt;/a&gt;).&lt;/p&gt;
 
 &lt;p&gt;Here I provide brief &lt;a href=&quot;https://github.com/YunranChen/yunranchen.github.io/blob/master/assets/pdf/Notes_on_Polyagamma_Sampling.pdf&quot;&gt;notes&lt;/a&gt; on how it works.&lt;/p&gt;</content><author><name>yunranchen</name></author><category term="blog" /><category term="statistics" /><category term="R" /><summary type="html">To sample from PolyaGamma distribution, we could use the rpg function in R pacakge BayesLogit, which is hybrid sampling approach based on Devroye, alternative and saddlepoint sampling method proposed by Polson et. al. (2013a, 2013b).</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/images/markdown.jpg" /></entry><entry><title type="html">BayesLogit: Instruction for installing R package BayesLogit</title><link href="http://localhost:4000/bayeslogit-r-package-install/" rel="alternate" type="text/html" title="BayesLogit: Instruction for installing R package BayesLogit" /><published>2018-11-05T16:18:00-05:00</published><updated>2018-11-05T16:18:00-05:00</updated><id>http://localhost:4000/bayeslogit-r-package-install</id><content type="html" xml:base="http://localhost:4000/bayeslogit-r-package-install/">&lt;p&gt;To sample from PolyaGamma distribution, we could use the &lt;code class=&quot;highlighter-rouge&quot;&gt;rpg&lt;/code&gt; function in R pacakge &lt;code class=&quot;highlighter-rouge&quot;&gt;BayesLogit&lt;/code&gt;, which applys effecient algorithm and is written in C.&lt;/p&gt;
 
@@ -85,103 +85,7 @@ BayesLogit/Code/C/include/&lt;/li&gt;
 &lt;p&gt;7) Install the package&lt;/p&gt;
 
 &lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-raw&quot; data-lang=&quot;raw&quot;&gt;    $ R CMD INSTALL BayesLogit_WHATEVER.tar.gz
-    &lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;</content><author><name>yunranchen</name></author><category term="blog" /><category term="statistics" /><category term="R" /><summary type="html">To sample from PolyaGamma distribution, we could use the rpg function in R pacakge BayesLogit, which applys effecient algorithm and is written in C.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/images/markdown.jpg" /></entry><entry><title type="html">Bayeslogit R Package Install copy</title><link href="http://localhost:4000/bayeslogit-r-package-install-copy/" rel="alternate" type="text/html" title="Bayeslogit R Package Install copy" /><published>2018-11-05T00:00:00-05:00</published><updated>2018-11-05T00:00:00-05:00</updated><id>http://localhost:4000/bayeslogit-r-package-install%20copy</id><content type="html" xml:base="http://localhost:4000/bayeslogit-r-package-install-copy/">&lt;h2 id=&quot;instruction-for-installing-r-package-bayeslogit&quot;&gt;Instruction for installing R package BayesLogit&lt;/h2&gt;
-
-&lt;p&gt;To sample from PolyaGamma distribution, we could use the &lt;code class=&quot;highlighter-rouge&quot;&gt;rpg&lt;/code&gt; function in R pacakge &lt;code class=&quot;highlighter-rouge&quot;&gt;BayesLogit&lt;/code&gt;, which applys effecient algorithm and is written in C.&lt;/p&gt;
-
-&lt;p&gt;Since &lt;code class=&quot;highlighter-rouge&quot;&gt;BayesLogit&lt;/code&gt; is removed from CRAN, here follows an instruction to install R package &lt;code class=&quot;highlighter-rouge&quot;&gt;BayesLogit&lt;/code&gt; from github.&lt;/p&gt;
-
-&lt;p&gt;Notice the &lt;code class=&quot;highlighter-rouge&quot;&gt;rpg&lt;/code&gt; function may not work when the shape parameter is greater than 170, since the normal approximation may not make sure the samples are greater than 0.&lt;/p&gt;
-
-&lt;p&gt;1.Make sure you have installed gcc (Compiler for C).&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;
-    &lt;p&gt;For MacOS, go to App Store, download Xcode.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Or use the commandline in terminal:&lt;/p&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;$ brew install gcc&lt;/p&gt;
-
-&lt;p&gt;2.Make sure you have right path for &lt;code class=&quot;highlighter-rouge&quot;&gt;gfortran&lt;/code&gt;.&lt;/p&gt;
-
-&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;$ curl -O http://r.research.att.com/libs/gfortran-4.8.2-darwin13.tar.bz2
-$ sudo tar fvxz gfortran-4.8.2-darwin13.tar.bz2 -C /
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
-
-&lt;p&gt;3.Follow the instructions in &lt;a href=&quot;https://github.com/jwindle/BayesLogit/blob/master/INSTALL&quot;&gt;github&lt;/a&gt; to generate R package.&lt;/p&gt;
-
-&lt;p&gt;1)Get the BayesLogit code.&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;
-    &lt;p&gt;You can clone the repository or download the code as a zip file via
-  github.com.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;For these instructions, ASSUME the repository directory is called
-  BayesLogit.&lt;/p&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;2)Install the Matrix and RNG files in BayesLogit/Code/C/include/&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;
-    &lt;p&gt;From the command line&lt;/p&gt;
-
-    &lt;ul&gt;
-      &lt;li&gt;cd to BayesLogit/Code/C/include&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;    $ wget https://github.com/jwindle/Matrix/archive/master.zip
-    $ wget https://github.com/jwindle/RNG/archive/master.zip
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;
-    &lt;p&gt;Or from your browser
-      - type in the above links and save them in
-          BayesLogit/Code/C/include/&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Unzip the files.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Remove the -master suffix&lt;/p&gt;
-
-    &lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;      $ mv Matrix-master Matrix
-      $ mv RNG-master RNG
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;    &lt;/div&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;3)cd to BayesLogit/Code/BLPackage&lt;/p&gt;
-
-&lt;p&gt;4)Update the files for the package.&lt;/p&gt;
-
-&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;    $ bash sync.bash
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
-
-&lt;p&gt;5)Build the package&lt;/p&gt;
-
-&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;$ R CMD build BayesLogit
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
-
-&lt;p&gt;6)Check the package (optional)&lt;/p&gt;
-
-&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;    $ R CMD check BayesLogit_WHATEVER.tar.gz 
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
-
-&lt;p&gt;7)Install the package&lt;/p&gt;
-
-&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;    $ R CMD INSTALL BayesLogit_WHATEVER.tar.gz
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;</content><author><name></name></author><summary type="html">Instruction for installing R package BayesLogit</summary></entry><entry><title type="html">Rshiny: website for Movies recommendation</title><link href="http://localhost:4000/rshiny-movies-website/" rel="alternate" type="text/html" title="Rshiny:  website for Movies recommendation" /><published>2018-07-14T13:52:00-04:00</published><updated>2018-07-14T13:52:00-04:00</updated><id>http://localhost:4000/rshiny-movies-website</id><content type="html" xml:base="http://localhost:4000/rshiny-movies-website/">&lt;p&gt;In this project, we build a shiny app to display insteresting movie infomation based on data from &lt;a href=&quot;https://www.themoviedb.org/&quot;&gt;TMDB&lt;/a&gt;.  It supports movies recommendation and people search.&lt;/p&gt;
+    &lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;</content><author><name>yunranchen</name></author><category term="blog" /><category term="statistics" /><category term="R" /><summary type="html">To sample from PolyaGamma distribution, we could use the rpg function in R pacakge BayesLogit, which applys effecient algorithm and is written in C.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/images/markdown.jpg" /></entry><entry><title type="html">Rshiny: website for Movies recommendation</title><link href="http://localhost:4000/rshiny-movies-website/" rel="alternate" type="text/html" title="Rshiny:  website for Movies recommendation" /><published>2018-07-14T13:52:00-04:00</published><updated>2018-07-14T13:52:00-04:00</updated><id>http://localhost:4000/rshiny-movies-website</id><content type="html" xml:base="http://localhost:4000/rshiny-movies-website/">&lt;p&gt;In this project, we build a shiny app to display insteresting movie infomation based on data from &lt;a href=&quot;https://www.themoviedb.org/&quot;&gt;TMDB&lt;/a&gt;.  It supports movies recommendation and people search.&lt;/p&gt;
 
 &lt;p&gt;You could get the infomation from the latest movies and popular movies. Also you could ask for movie recommendations based on the genre you prefer. In addition, you could search for your favorite actors or directors to get their movies and personal information.&lt;/p&gt;</content><author><name>yunranchen</name></author><category term="project" /><category term="statistics" /><category term="R" /><summary type="html">In this project, we build a shiny app to display insteresting movie infomation based on data from TMDB. It supports movies recommendation and people search.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/images/markdown.jpg" /></entry><entry><title type="html">DataFest: Exceeding Indeed’’s Needs</title><link href="http://localhost:4000/datafest-exceeding-indeeds-needs/" rel="alternate" type="text/html" title="DataFest: Exceeding Indeed''s Needs" /><published>2018-07-14T13:52:00-04:00</published><updated>2018-07-14T13:52:00-04:00</updated><id>http://localhost:4000/datafest-exceeding-indeeds-needs</id><content type="html" xml:base="http://localhost:4000/datafest-exceeding-indeeds-needs/">&lt;p&gt;In this project, we focus on how Indeed can better serve its existing customers and possibly expand the boundary of data applications in the real market.&lt;/p&gt;
 
