@@ -47,7 +47,7 @@ layout: page
 	</ul>
 	<li>Neuroscience: </li>
 	<ul>
-		<li>The Brain and Space by Duke University on Coursera</li>
+		<li><a href="https://www.coursera.org/learn/human-brain">The Brain and Space</a> by Duke University on Coursera</li>
 		<li>Research Assistant at <a href="https://people.duke.edu/~jmgroh/">Neural Basis of Perception Laboratory</a></li>
 	</ul>
 </ul>
