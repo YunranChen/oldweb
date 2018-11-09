@@ -6,7 +6,7 @@ layout: page
 
 
 
-<p> I graduated from Renmin University of China in 2017, majoring in Statistics and double majoring in Economics. I am now completing a Master's degree in Statistical Science at Duke University. I am interested in network analysis and nonparametric Bayes. My goal is to serve as a bridge to connect various disciplines through developing statistical methods and models, and spread the concepts of statistics to the general public. </p>
+<p> I graduated from Renmin University of China in 2017, majoring in Statistics and double majoring in Economics. I am now completing a Master's degree in Statistical Science at Duke University. I am interested in <b>network analysis and nonparametric Bayes</b>. My goal is to <b>serve as a bridge</b> to connect various disciplines through developing statistical methods and models, and <b>spread the concepts of statistics</b> to the general public. </p>
 
 <p>I love statistics, trivia, dreams, poems and  philosophy. I have recorded my dreams in details since 09/26/2016. I am building a <a href="https://github.com/YunranChen/Daydreamer">Rabbit Hole</a> to gather dreams recently.</p>
 
