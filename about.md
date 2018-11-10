@@ -15,8 +15,8 @@ layout: page
 <h2>Papers</h2>
 
 <ul>
-	<li>Ongoing: Testing Poisson versus Poisson mixtures with applications to neuroscience <a href="https://github.com/YunranChen/yunranchen.github.io/blob/master/assets/pdf/AISC.pdf">slides</a></li>
-	<li>Ongoing: Dynamic Latent Space Model on Directed Network</li>
+	<li>In progress: Testing Poisson versus Poisson mixtures with applications to neuroscience <a href="https://github.com/YunranChen/yunranchen.github.io/blob/master/assets/pdf/AISC.pdf">slides</a></li>
+	<li>In progress: Dynamic Latent Space Model on Directed Network</li>
 	<li>Undergraduate thesis: Pairwise estimation of mixed spatial autoregressive model with sampled network data <a href="https://github.com/YunranChen/yunranchen.github.io/blob/master/assets/pdf/undergradthesis.pdf">pdf(in Chinese)</a></li>
 </ul>
 
@@ -39,15 +39,15 @@ layout: page
 <h2>Others</h2>
 
 <ul class="skill-list">
-	<li>Programming skills and Tools: R, Python, Matlab, EXCEL VBA, SQL</li>
-	<li>Tutoring:</li> 
+	<li>Programming skills and Tools: R, Python, Matlab, EXCEL VBA, SQL, Latex, Git</li>
+	<li>Teaching experience:</li> 
 	<ul>
 		<li>Teaching Assistant for <a href="https://www2.stat.duke.edu/courses/Spring17/sta650.001/">STAT650 (Spring 2019)</a></li>
 		<li>Private Tutor for Duke Athletes for Fall, Spring, Summer 2018</li>
 	</ul>
 	<li>Neuroscience: </li>
 	<ul>
-		<li><a href="https://www.coursera.org/learn/human-brain">The Brain and Space</a> by Duke University on Coursera</li>
 		<li>Research Assistant in <a href="https://people.duke.edu/~jmgroh/">Neural Basis of Perception Laboratory</a></li>
+		<li><a href="https://www.coursera.org/learn/human-brain">The Brain and Space</a> by Duke University on Coursera</li>
 	</ul>
 </ul>
