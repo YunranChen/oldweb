@@ -23,6 +23,8 @@ layout: page
 <h2>Projects</h2>
 
 <ul>
+	<li><a href="https://github.com/YunranChen/DynamicRelationship">Dynamic Network: International Relationship</a></li>
+	<li><a href="https://github.com/YunranChen/Interference_in_CI">Causal Inference with Interference</a></li>
 	<li><a href="https://github.com/YunranChen/HiggsBoson">Dynamic Network: HiggsBoson</a></li>
 	<li><a href="https://github.com/YunranChen/VIonLDA">Python Package: Variational Inference on Latent Dirichlet Allocation</a></li>
 	<li><a href="https://github.com/YunranChen/DataFest2018">DataFest2018: Exceeding Indeed's Needs</a></li>
