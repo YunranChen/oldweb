@@ -44,7 +44,7 @@ layout: page
 	<li>Programming skills and Tools: R, Python, Matlab, EXCEL VBA, SQL, Latex, Git</li>
 	<li>Teaching experience:</li> 
 	<ul>
-		<li>Teaching Assistant for <a href="https://www2.stat.duke.edu/courses/Spring17/sta650.001/">STAT650 (Spring 2019)</a></li>
+		<li>Teaching Assistant for <a href="http://www2.stat.duke.edu/courses/Spring19/sta650.001/">STAT650 (Spring 2019)</a></li>
 		<li>Private Tutor for Duke Athletes for Fall, Spring, Summer 2018</li>
 	</ul>
 	<li>Neuroscience: </li>
