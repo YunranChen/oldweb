@@ -38,13 +38,21 @@ layout: page
 	
 </ul>
 
+
+<h2>Awards</h2>
+
+<ul>
+	<li> <a href="https://community.amstat.org/northcarolina/students">ASA NC Chapter and AISC Young Researcher Award</a></li>
+	
+</ul>
+
 <h2>Others</h2>
 
 <ul class="skill-list">
 	<li>Programming skills and Tools: R, Python, Matlab, EXCEL VBA, SQL, Latex, Git</li>
 	<li>Teaching experience:</li> 
 	<ul>
-		<li>Teaching Assistant for <a href="http://www2.stat.duke.edu/courses/Spring19/sta650.001/">STAT650 (Spring 2019)</a></li>
+		<li>Teaching Assistant for <a href="http://www2.stat.duke.edu/courses/Spring19/sta650.001/">STAT650 (Spring 2019)</a>  <a href="https://github.com/YunranChen/STA650Lab">Lab materials</a></li>
 		<li>Private Tutor for Duke Athletes for Fall, Spring, Summer 2018</li>
 	</ul>
 	<li>Neuroscience: </li>
