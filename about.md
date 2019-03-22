@@ -46,6 +46,14 @@ layout: page
 	
 </ul>
 
+<h2>Tutorials</h2>
+
+<ul>
+	<li><a href="https://github.com/YunranChen/STA650Lab">Network Analysis Using R</a></li>
+</li>
+
+</ul>
+
 <h2>Others</h2>
 
 <ul class="skill-list">
@@ -60,4 +68,6 @@ layout: page
 		<li>Research Assistant in <a href="https://people.duke.edu/~jmgroh/">Neural Basis of Perception Laboratory</a></li>
 		<li><a href="https://www.coursera.org/learn/human-brain">The Brain and Space</a> by Duke University on Coursera</li>
 	</ul>
+	<li>Languages: Chinese (native), English (fluent), Japanese (basic)</li>
+
 </ul>
