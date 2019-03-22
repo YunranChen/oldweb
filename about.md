@@ -50,7 +50,6 @@ layout: page
 
 <ul>
 	<li><a href="https://github.com/YunranChen/STA650Lab">Network Analysis Using R</a></li>
-</li>
 
 </ul>
 
