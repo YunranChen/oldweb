@@ -29,7 +29,7 @@ I serve as a <b>teaching assistant</b> for <a href="http://www2.stat.duke.edu/co
 - Collect network data. 
     - API requests using R packages (`rtweet`, `Rfacebook`, `RedditExtractoR`, `imdbapi`, `omdbapi`).
     - API requests from R directly (`rjson`, `jsonlite`)
-    - Useful websites <a href=https://github.com/briatte/awesome-network-analysis>Awesome website for papers, reviews, datasets and softwares</a>
+    - Useful websites <a href=https://github.com/briatte/awesome-network-analysis></a>
     
 - Fancy visualization (static and dynamic networks).
     - `ggplot2` version: `ggnet2`,`geomnet`,`ggnetwork`
