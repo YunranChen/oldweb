@@ -62,13 +62,11 @@ layout: page
 	<li>Teaching experience:</li> 
 	<ul>
 		<li>Teaching Assistant for Bayesian Statistics (STA 602) , Bayesian Statistical Modeling and Data Anal-ysis (STA 360/602,  <a href="https://github.com/YunranChen/STA650Lab">Lab materials</a>), Causal Inference (STA 640), Social Networks (STA 650), Probability (MATH 230)
-		<li>Private Tutor for Duke Athletes for Fall, Spring, Summer 2018</li>
-	</ul>
+		<li>Private Tutor for Duke Athletes for Fall, Spring, Summer 2018</li></ul>
 	<li>Neuroscience: </li>
 	<ul>
 		<li>Research Assistant in <a href="https://people.duke.edu/~jmgroh/">Neural Basis of Perception Laboratory</a> (Advisor: Prof. Jennifer Groh)</li>
-		<li><a href="https://www.coursera.org/learn/human-brain">The Brain and Space</a> by Duke University on Coursera</li>
-	</ul>
+		<li><a href="https://www.coursera.org/learn/human-brain">The Brain and Space</a> by Duke University on Coursera</li></ul>
 	<li>Languages: Chinese (native), English (fluent), Japanese (basic)</li>
 
 </ul>
