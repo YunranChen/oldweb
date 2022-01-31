@@ -6,17 +6,18 @@ layout: page
 
 
 
-<p> I graduated from Renmin University of China in 2017, majoring in Statistics and double majoring in Economics. I am now completing a Master's degree in Statistical Science at Duke University. I am interested in <b>network analysis and nonparametric Bayes</b>. My goal is to <b>serve as a bridge</b> to connect various disciplines through developing statistical methods and models, and <b>spread the concepts of statistics</b> to the general public. </p>
+<p> I am now a Ph.D. candidate in Statistical Science at Duke University. I am interested in <b>Bayesian factor model, nonparametric Bayes, network analysis, and applications in neuroscience</b>. My goal is to <b>serve as a bridge</b> to connect various disciplines through developing statistical methods and models, and <b>spread the concepts of statistics</b> to the general public. </p>
 
-<p>I love statistics, trivia, dreams, poems and  philosophy. I have recorded my dreams in details since 09/26/2016. I am building a <a href="https://github.com/YunranChen/Daydreamer">Rabbit Hole</a> to gather dreams recently.</p>
 
-<h2><a href="https://github.com/YunranChen/yunranchen.github.io/blob/master/assets/pdf/CV_Yunran_Chen_woAdress.pdf">Résumé</a></h2>
+<h2><a href="https://github.com/YunranChen/yunranchen.github.io/blob/master/assets/pdf/YunranChen_CV.pdf">Résumé</a></h2>
 
 <h2>Papers</h2>
 
 <ul>
-	<li>In progress: Testing Poisson versus Poisson mixtures with applications to neuroscience <a href="https://github.com/YunranChen/yunranchen.github.io/blob/master/assets/pdf/AISC.pdf">slides</a></li>
-	<li>In progress: Dynamic Latent Space Model on Directed Network</li>
+	<li>In progress: Bayesian estimation of block covariance matrices with an unknown block assignment</li>
+	<li>In progress: Modeling neural population coordination via a block correlation matrix of fluctuating weights</li>
+	<li>To be submitted: Testing Poisson versus Poisson mixtures with applications to neuroscience <a href="https://github.com/YunranChen/yunranchen.github.io/blob/master/assets/pdf/AISC.pdf">slides</a></li>
+	<li>To be submitted: Dynamic Latent Space Model on Directed Network</li>
 	<li>Undergraduate thesis: Pairwise estimation of mixed spatial autoregressive model with sampled network data <a href="https://github.com/YunranChen/yunranchen.github.io/blob/master/assets/pdf/undergradthesis.pdf">pdf(in Chinese)</a></li>
 </ul>
 
@@ -31,7 +32,7 @@ layout: page
 </ul>
 
 
-<h2>Talks</h2>
+<h2>Talks and Posters</h2>
 
 <ul>
 	<li>Present work in the <a href="https://www.uncg.edu/mat/aisc/2018/index.html">International Conference on Advances in Interdisciplinary Statistics and Combinatorics (AISC)</a> at UNC Greensboro <a href="https://github.com/YunranChen/yunranchen.github.io/blob/master/assets/pdf/AISC.pdf">slides</a></li>
@@ -59,12 +60,12 @@ layout: page
 	<li>Programming skills and Tools: R, Python, Matlab, EXCEL VBA, SQL, Latex, Git</li>
 	<li>Teaching experience:</li> 
 	<ul>
-		<li>Teaching Assistant for <a href="http://www2.stat.duke.edu/courses/Spring19/sta650.001/">STAT650 (Spring 2019)</a>  <a href="https://github.com/YunranChen/STA650Lab">Lab materials</a></li>
+		<li>Teaching Assistant for Bayesian Statistics (STA 602) , Bayesian Statistical Modeling and Data Anal-ysis (STA 360/602,  <a href="https://github.com/YunranChen/STA650Lab">Lab materials</a>), Causal Inference (STA 640), Social Networks (STA 650), Probability (MATH 230)
 		<li>Private Tutor for Duke Athletes for Fall, Spring, Summer 2018</li>
 	</ul>
 	<li>Neuroscience: </li>
 	<ul>
-		<li>Research Assistant in <a href="https://people.duke.edu/~jmgroh/">Neural Basis of Perception Laboratory</a></li>
+		<li>Research Assistant in <a href="https://people.duke.edu/~jmgroh/">Neural Basis of Perception Laboratory</a> (Advisor: Prof. Jennifer Groh)</li>
 		<li><a href="https://www.coursera.org/learn/human-brain">The Brain and Space</a> by Duke University on Coursera</li>
 	</ul>
 	<li>Languages: Chinese (native), English (fluent), Japanese (basic)</li>
