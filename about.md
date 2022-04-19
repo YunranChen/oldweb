@@ -6,7 +6,7 @@ layout: page
 
 
 
-<p> I am now a Ph.D. candidate in Statistical Science at Duke University. I am interested in <b>Bayesian factor model, nonparametric Bayes, network analysis, and applications in neuroscience</b>. My goal is to <b>serve as a bridge</b> to connect various disciplines through developing statistical methods and models, and <b>spread the concepts of statistics</b> to the general public. </p>
+<p> I am now a Ph.D. candidate in Statistical Science at Duke University. I am interested in <b>Bayesian factor model, nonparametric Bayes, network analysis</b>. My goal is to <b>serve as a bridge</b> to connect various disciplines through developing statistical methods and models, and <b>spread the concepts of statistics</b> to the general public. </p>
 
 
 <h2><a href="https://github.com/YunranChen/yunranchen.github.io/blob/master/assets/pdf/YunranChen_CV.pdf">Résumé</a></h2>
