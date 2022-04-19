@@ -16,7 +16,7 @@ layout: page
 <ul>
 	<li>In progress: Chen, Y. and S. T. Tokdar. Bayesian estimation of block covariance matrices with an unknown block assignment</li>
 	<li>In progress: Chen, Y. and S. T. Tokdar. Modeling neural population coordination via a block correlation matrix of fluctuating weights</li>
-	<li>To be submitted: Chen, Y. and S. T. Tokdar. Testing Poisson versus Poisson mixtures with applications to neuroscience <a href="https://github.com/YunranChen/yunranchen.github.io/blob/master/assets/pdf/AISC.pdf">slides</a></li>
+	<li>To be submitted: Chen, Y. and S. T. Tokdar. Testing among different types of second of stochasticities <a href="https://github.com/YunranChen/yunranchen.github.io/blob/master/assets/pdf/AISC.pdf">slides</a></li>
 	<li>To be submitted: Chen, Y. and A. Volfovsky. Dynamic Latent Space Model on Directed Network</li>
 	<li>Undergraduate thesis: Chen, Y. and C. Lin. Pairwise estimation of mixed spatial autoregressive model with sampled network data <a href="https://github.com/YunranChen/yunranchen.github.io/blob/master/assets/pdf/undergradthesis.pdf">pdf(in Chinese)</a></li>
 </ul>
