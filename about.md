@@ -14,8 +14,8 @@ layout: page
 <h2>Papers</h2>
 
 <ul>
-	<li>In progress: Chen, Y. and S. T. Tokdar. Bayesian estimation of block covariance matrices with an unknown block assignment</li>
-	<li>In progress: Chen, Y. and S. T. Tokdar. Modeling neural population coordination via a block correlation matrix of fluctuating weights</li>
+	<li>In progress: Chen, Y. and S. T. Tokdar. Bayesian estimation of block correlation matrices with an unknown block assignment</li>
+	<li>In progress: Chen, Y. and S. T. Tokdar. Modeling neural population coordination via a block correlation matrix of fluctuating weights</li> <a href="https://github.com/YunranChen/yunranchen.github.io/blob/master/assets/pdf/AISC.pdf">slides</a></li>
 	<li>To be submitted: Chen, Y. and S. T. Tokdar. Testing among different types of second of stochasticities <a href="https://github.com/YunranChen/yunranchen.github.io/blob/master/assets/pdf/AISC.pdf">slides</a></li>
 	<li>To be submitted: Chen, Y. and A. Volfovsky. Dynamic Latent Space Model on Directed Network</li>
 	<li>Undergraduate thesis: Chen, Y. and C. Lin. Pairwise estimation of mixed spatial autoregressive model with sampled network data <a href="https://github.com/YunranChen/yunranchen.github.io/blob/master/assets/pdf/undergradthesis.pdf">pdf(in Chinese)</a></li>
@@ -36,6 +36,7 @@ layout: page
 <h2>Talks and Posters</h2>
 
 <ul>
+	<li>Poster in the <a href="https://isbawebmaster.github.io/ISBA2022/">ISBA 2022</a> in Montreal, Canada <a href="https://github.com/YunranChen/yunranchen.github.io/blob/master/assets/pdf/AISC.pdf">slides</a></li>
 	<li>Present work in the <a href="https://www.uncg.edu/mat/aisc/2018/index.html">International Conference on Advances in Interdisciplinary Statistics and Combinatorics (AISC)</a> at UNC Greensboro <a href="https://github.com/YunranChen/yunranchen.github.io/blob/master/assets/pdf/AISC.pdf">slides</a></li>
 	
 </ul>
@@ -48,22 +49,18 @@ layout: page
 	
 </ul>
 
-<h2>Tutorials</h2>
+<h2>Teaching Experience</h2>
 
 <ul>
-	<li><a href="https://github.com/YunranChen/STA650Lab">Network Analysis Using R</a></li>
-
+	<li>Instructor for Regression Analysis (STA 210) in Summer 2022.  <a href="https://yunranchen.github.io/STA210Summer/">Course Website</a>
+	<li>Teaching Assistant for Bayesian Statistics (STA 602) , Bayesian Statistical Modeling and Data Analysis (STA 360/602), Causal Inference (STA 640), Social Networks (STA 650, <a href="https://github.com/YunranChen/STA650Lab">Lab materials</a>, <a href="https://github.com/YunranChen/STA650Lab">Network Analysis Using R</a>), Probability (MATH 230)
+	<li>Private Tutor for Duke Athletes for Fall, Spring, Summer 2018</li>
 </ul>
 
 <h2>Others</h2>
 
 <ul class="skill-list">
 	<li>Programming skills and Tools: R, Python, Matlab, EXCEL VBA, SQL, Latex, Git</li>
-	<li>Teaching experience:</li> 
-	<ul>
-		<li>Teaching Assistant for Bayesian Statistics (STA 602) , Bayesian Statistical Modeling and Data Analysis (STA 360/602,  <a href="https://github.com/YunranChen/STA650Lab">Lab materials</a>), Causal Inference (STA 640), Social Networks (STA 650), Probability (MATH 230)
-		<li>Private Tutor for Duke Athletes for Fall, Spring, Summer 2018</li>
-		</ul>
 	<li>Neuroscience: </li>
 	<ul>
 		<li>Research Assistant in <a href="https://people.duke.edu/~jmgroh/">Neural Basis of Perception Laboratory</a> (Advisor: Prof. Jennifer Groh)</li>
