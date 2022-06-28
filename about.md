@@ -8,14 +8,13 @@ layout: page
 
 <p> I am now a Ph.D. candidate in Statistical Science at Duke University. I am interested in <b>Bayesian factor model, nonparametric Bayes, network analysis</b>. My goal is to <b>serve as a bridge</b> to connect various disciplines through developing statistical methods and models, and <b>spread the concepts of statistics</b> to the general public. </p>
 
-
-<h2><a href="https://github.com/YunranChen/yunranchen.github.io/blob/master/assets/pdf/CV.pdf">Résumé</a></h2>
+<h2><a href="https://github.com/YunranChen/yunranchen.github.io/blob/master/assets/pdf/YunranChen_CV%20.pdf">Résumé</a></h2>
 
 <h2>Papers</h2>
 
 <ul>
 	<li>In progress: Chen, Y. and S. T. Tokdar. Bayesian estimation of block correlation matrices with an unknown block assignment</li>
-	<li>In progress: Chen, Y. and S. T. Tokdar. Modeling neural population coordination via a block correlation matrix of fluctuating weights</li> <a href="https://github.com/YunranChen/yunranchen.github.io/blob/master/assets/pdf/AISC.pdf">slides</a></li>
+	<li>In progress: Chen, Y. and S. T. Tokdar. Modeling neural population coordination via a block correlation matrix of fluctuating weights (<a href="https://github.com/YunranChen/yunranchen.github.io/blob/master/assets/pdf/Poster_Yunran_v2.pdf">poster</a>)</li>
 	<li>To be submitted: Chen, Y. and S. T. Tokdar. Testing among different types of second of stochasticities <a href="https://github.com/YunranChen/yunranchen.github.io/blob/master/assets/pdf/AISC.pdf">slides</a></li>
 	<li>To be submitted: Chen, Y. and A. Volfovsky. Dynamic Latent Space Model on Directed Network</li>
 	<li>Undergraduate thesis: Chen, Y. and C. Lin. Pairwise estimation of mixed spatial autoregressive model with sampled network data <a href="https://github.com/YunranChen/yunranchen.github.io/blob/master/assets/pdf/undergradthesis.pdf">pdf(in Chinese)</a></li>
